@@ -1,6 +1,6 @@
 # software_dev_glossary
 
-A new Flutter project.
+An Open Source Softare Development Gloassary App
 
 ## Getting Started
 
